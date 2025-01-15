@@ -67,3 +67,16 @@ caption {
     padding-top: 15px;
     color: #753a30;
 }
+label{
+    display: block;
+    margin: 15px 0 0 0;
+}
+input{
+    width: 300px;
+}
+input[type="radio"] {
+    width: 25px;
+}
+textarea {
+    width: 300px;
+}
